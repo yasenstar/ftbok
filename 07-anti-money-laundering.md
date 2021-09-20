@@ -39,5 +39,3 @@
 
 ## 07.08 Intelligence Visualization
 
-
-
