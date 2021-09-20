@@ -33,6 +33,12 @@
 
 ## 07.03 Financial Intelligence Unit \(FIU\)
 
+![](.gitbook/assets/image%20%2812%29.png)
+
+![](.gitbook/assets/image%20%2811%29.png)
+
+
+
 ## 07.04 Know Your Customer \(KYC\)
 
 ## 07.05 Suspicious Transaction Report \(STR\)
