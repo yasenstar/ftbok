@@ -16,5 +16,3 @@ The diagrams showed in the article are modelling with[ Archi tool](https://www.a
 
 ![&#x91D1;&#x878D;&#x79D1;&#x6280;&#x77E5;&#x8BC6;&#x6846;&#x67B6;&#x4F53;&#x7CFB;&#x6982;&#x89C8;](.gitbook/assets/image%20%281%29.png)
 
-
-
