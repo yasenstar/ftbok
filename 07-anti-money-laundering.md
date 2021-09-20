@@ -21,11 +21,15 @@
 
 ## 07.01 Anti-Money Laundering \(AML\)
 
-![07.01 AML Relations with Other Technologies](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
-![07.01 &#x53CD;&#x6D17;&#x94B1;&#x4E0E;&#x5176;&#x4ED6;&#x91D1;&#x878D;&#x79D1;&#x6280;&#x7684;&#x5173;&#x7CFB;](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ## 07.02 Financial Action Task Force on Money Laundering \(FATF\)
+
+![](.gitbook/assets/image%20%288%29.png)
+
+![](.gitbook/assets/image%20%287%29.png)
 
 ## 07.03 Financial Intelligence Unit \(FIU\)
 
