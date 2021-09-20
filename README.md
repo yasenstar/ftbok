@@ -1,2 +1,2 @@
-# ftbok
-Fin-Tech Body of Knowledge
+# Initial page
+
