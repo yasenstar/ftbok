@@ -72,15 +72,38 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 | D.15 | ADDITIONAL MEASURES FOR SPECIFIC CUSTOMERS AND ACTIVITIES: New technologies |
 | D.16 | ADDITIONAL MEASURES FOR SPECIFIC CUSTOMERS AND ACTIVITIES: Wire transfers |
 | D.17 | RELIANCE, CONTROLS AND FINANCIAL GROUPS: Reliance on third parties |
-| D.18 | RELIANCE, CONTROLS AND FINANCIAL GROUPS:  |
+| D.18 | RELIANCE, CONTROLS AND FINANCIAL GROUPS: Internal controls and foreign branches and subsidiaries |
+| D.19 | RELIANCE, CONTROLS AND FINANCIAL GROUPS: Higher-risk countries |
+| D.20 | REPORTING OF SUSPICIOUS TRANSACTIONS: Reporting of suspicious transactions |
+| D.21 | REPORTING OF SUSPICIOUS TRANSACTIONS: Tipping-off and confidentiality |
+| D.22 | DESIGNATED NON-FINANCIAL BUSINESS AND PROFESSIONS: DNFBPs: customer due diligence |
+| D.23 | DESIGNATED NON-FINANCIAL BUSINESS AND PROFESSIONS: DNFBPs: Other measures |
+| E | TRANSPARENCY AND BENEFICIAL OWNERSHIP OF LEGAL PERSONS AND ARRANGEMENTS |
+| E.24 | Transparency and beneficial ownership of legal persons |
+| E.25 | Transparency and beneficial ownership of legal arrangements |
+| F | POWERS AND RESPONSIBILITIES OF COMPETENT AUTHORITIES, AND OTHER INSTITUTIONAL MEASURES |
+| F.26 | REGULATION AND SUPERVISION: Regulation and supervision of financial institutions |
+| F.27 | REGULATION AND SUPERVISION: Powers of supervisors |
+| F.28 | REGULATION AND SUPERVISION: Regulatiohn and supervision of DNFBPs |
+| F.29 | OPERATIONAL AND LAW ENFORCEMENT: Financial intelligence units |
+| F.30 | OPERATIONAL AND LAW ENFORCEMENT: Responsibilities of law enforcement and investgative authorities |
+| F.31 | OPERATIONAL AND LAW ENFORCEMENT: Powers of law enforcement and investigative authorities |
+| F.32 | OPERATIONAL AND LAW ENFORCEMENT: Cash couriers |
+| F.33 | GENERAL REQUIREMENTS: Statistics |
+| F.34 | GENERAL REQUIREMENTS: Guidance and feedback |
+| F.35 | SANCTIONS: Sanctions |
+| G | INTERNATIONAL COOPERATION |
+| G.36 | International instruments |
+| G.37 | Mutual legal assistance |
+| G.38 | Mutual legal assistance: freezing and confiscation |
+| G.39 | Extradition |
+| G.40 | Other forms of international cooperation |
 
 ## 07.03 Financial Intelligence Unit \(FIU\)
 
 ![](.gitbook/assets/image%20%2821%29.png)
 
 ![](.gitbook/assets/image%20%2817%29.png)
-
-
 
 ## 07.04 Know Your Customer \(KYC\)
 
