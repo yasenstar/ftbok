@@ -110,6 +110,43 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 
 金融情报中心，又称金融情报机构，是一个旨在打击洗钱犯罪，专门负责收集、归纳分析有关可疑犯罪收入或被国家立法或规定要求的金融情报线索，并向执法部门传递情报的中央国家机构。
 
+根据**FATF“建议29”**，各国应建立一个金融情报中心，作为全国性中心负责接收和分析**可疑交易报告**；与**洗钱**、相关上游犯罪和**恐怖主义融资**有关的其他信息，以及用于发布该分析结果的信息。
+
+作为金融情报中心的国际组织埃格蒙特集团（[Egmont Group](https://egmontgroup.org/)）已经拥有167个成员（截至2021-09-21）。
+
+不同国家和地区的金融情报中心分为下面4种：
+
+* 司法型
+* 执法型
+* 行政型
+* 混合型
+
+下表列出了世界主要国家的金融情报中心 --
+
+| 国家 | 金融情报中心 | 外文名 |
+| :--- | :--- | :--- |
+| 中国 | 中国反洗钱监测分析中心 | China Anti-Money Laundering Monitoring Analysis Center, CAMLMAC |
+| 阿根廷 | 阿根廷金融情报中心 | [Financial Information Unit Argentina, UIF](http://www.uif.gov.ar/) |
+| 比利时 | 比利时金融情报处理中心 | [Belgian Financial Intelligence Processing Unit, CTIF-CFI](http://www.ctif-cfi.be/website/index.php) |
+| 澳大利亚 | 澳大利亚交易报告和分析中心 | [The Australian Transaction Reports and Analysis Centre, AUSTRAC](http://www.austrac.gov.au/) |
+| 加拿大 | 加拿大金融交易和报告分析中心 | [Financial Transactions and Reports Analysis Centre of Canada, FINTRAC](http://www.fintrac-canafe.gc.ca/fintrac-canafe/1-eng.asp) |
+| 巴西 | 金融行为控制委员会 | [Council for Financial Activities Control, COAF](https://www.coaf.fazenda.gov.br/) |
+| 法国 | 法国金融情报中心 | [Intelligence Processing and Action against Illicit Financial Networks Unit, Tracifin](http://www.economie.gouv.fr/tracfin/accueil-tracfin) |
+| 德国 | 德国金融情报中心 | [Financial Intelligence Unit Genmany, FIU](http://www.fiu.bund.de/) |
+| 印度 | 金融情报部门 | [Financial Intelligence Unit-India, FIU-IND](http://fiuindia.gov.in/) |
+| 爱尔兰 | 反欺诈调查局 | [Bureau of Fraud Investigation, MLIU](http://www.garda.ie/Controller.aspx) |
+| 英国 | 英国金融情报中心 | [UK Financial Intelligence Unit, NCA](http://www.nationalcrimeagency.gov.uk/) |
+| 美国 | 金融犯罪支付网络 | [The Financial Crimes Enforcement Network, FinCEN](https://www.fincen.gov/) |
+| 日本 | 日本金融情报中心 | [Japan Financial Intelligence Center, JAFIC](http://www.npa.go.jp/sosikihanzai/jafic/index_e.htm) |
+| 韩国 | 韩国金融情报中心 | [Korea Financial Intelligence Unit, KoFIU](https://www.kofiu.go.kr/eng/main.do) |
+| 俄罗斯 | 联邦金融监控服务 | [Federal Financial Monitoring Service, Rosfinmonitoring](http://www.fedsfm.ru/en) |
+| 瑞典 | 国家金融情报服务 | National Financial Intelligence Service, NFIS |
+| 中国台湾 | 反洗钱部 | [Anti-Money Laundering Division, AMLD](http://www.mjib.gov.tw/en) |
+| 突尼斯 | 突尼斯金融分析委员会 | [Tunisian Financial Analysis Committee, CTAF](http://www.ctaf.gov.tn/ctaf_f/eng/) |
+| 土耳其 | 金融犯罪调查委员会 | [Financial Crimes Investigation Board, MASAK](http://www.masak.gov.tr/en/default) |
+
+Refer to [here](https://www.fincen.gov/news/news-releases/fincen-and-chinas-camlmac-sign-memorandum-understanding-0), US FinCEN and China CAMLMAC signed a MOU at Dec 2015 to create a framework of facilitate expanded U.S.-China collaboration, communication, and cooperation between both nations' financial intelligence units \(FIUs\).
+
 ![](.gitbook/assets/image%20%2821%29.png)
 
 ![](.gitbook/assets/image%20%2817%29.png)
