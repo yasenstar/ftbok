@@ -187,9 +187,9 @@ Recommendations \# 10 - Customer Due Diligence
 
 如今，全球大多数金融机构和许多特定非金融行业和职业（Designated Non-Financial Businesses and Profession, DNFBP）都需要识别并向各种国家的金融情报部门报告可疑交易。
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 相关法律法规：
 
@@ -201,9 +201,11 @@ Recommendations \# 10 - Customer Due Diligence
 
 受益所有人是英美法上的概念，是指拥有受益所有权的人。2016年以来对《40项建议》的修订，体现了对受益所有人的重视。随着全球监管（反洗钱）的一体化，中国国内金融监管也越来越多地使用这个词，有时候往往要用技术手段来穿透最终交易或资产的最终受益人（Ultimate Beneficial Owner, UBO）或受益所有人。
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
+
+![](.gitbook/assets/image%20%2829%29.png)
 
 不同组织的受益所有人应当按照以下标准判断：
 
@@ -248,7 +250,33 @@ Recommendations \# 10 - Customer Due Diligence
 | 中国 | 中国人民银行关于加强反洗钱客户身份识别有关工作的通知 |
 | 中国 | 中国人民银行关于进一步做好受益所有人身份识别工作有关问题的通知 |
 
+Base on Dun & Bradstreet's [UBO Guide](https://www.dnb.com/content/dam/english/dnb-solutions/supply-management/UBO-guide-170515_US.pdf), following are the key BO challenges:
+
+* The BO collection process adds a huge burden ont he business's operations
+* The lack of publicly avaialble UBO registry data remains a loophole in the entire AML effort
+* Complexity and broadness of the BO data is becoming one of the biggest challenges facing companies with a global footprint in all their markets
+* Non-standard documentation in offshore financial centers \(OFCs\)
+* Flexible change of ownership in OFCs
+* Navigating multiple layers of ownership
+* Non-cooperation, grudging \(分级\), or boilerplate \(样板\) disclosure
+
+As hands-on tool, Ingenico provides an [UBO Identification Form](https://www.ingenico.com/binaries/content/assets/corporate-en/legal/ifs/ubo-form.pdf) for reference.
+
 ## 07.07 Financial Intelligence Network
 
+资金情报网络指由资金关联关系形成的情报网络，常用于反洗钱监测分析，目的是在庞大的资金网络中识别可疑资金流。
+
+![](.gitbook/assets/image%20%2824%29.png)
+
+![](.gitbook/assets/image%20%2823%29.png)
+
 ## 07.08 Intelligence Visualization
+
+情报可视化即情报数据可视化，是关于情报数据视觉表现形式的科学技术研究。反洗钱工作中的情报数据可视化，主要是将人群、账户及其间的关联关系，用各种层次图、时序图、热图等展示出来。
+
+![](.gitbook/assets/image%20%2826%29.png)
+
+![](.gitbook/assets/image%20%2828%29.png)
+
+I2, now as [one IBM solution](https://www.ibm.com/downloads/cas/WB7DBMEG), provide intelligence analysis approach for fraud and financial crime detecting and visualization.
 
