@@ -18,6 +18,10 @@
 
 ## 01.03 Inclusive Finance
 
+![](.gitbook/assets/image%20%2822%29.png)
+
+![](.gitbook/assets/image%20%2813%29.png)
+
 ## 01.04 Behavioral Economics \(BE\)
 
 ## 01.05 Crowdfunding
