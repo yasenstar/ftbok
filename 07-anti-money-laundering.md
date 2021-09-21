@@ -125,7 +125,7 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 
 | 国家 | 金融情报中心 | 外文名 |
 | :--- | :--- | :--- |
-| 中国 | 中国反洗钱监测分析中心 | China Anti-Money Laundering Monitoring Analysis Center, CAMLMAC |
+| 中国 | 中国反洗钱监测分析中心 （简称反洗钱中心） | China Anti-Money Laundering Monitoring Analysis Center, CAMLMAC |
 | 阿根廷 | 阿根廷金融情报中心 | [Financial Information Unit Argentina, UIF](http://www.uif.gov.ar/) |
 | 比利时 | 比利时金融情报处理中心 | [Belgian Financial Intelligence Processing Unit, CTIF-CFI](http://www.ctif-cfi.be/website/index.php) |
 | 澳大利亚 | 澳大利亚交易报告和分析中心 | [The Australian Transaction Reports and Analysis Centre, AUSTRAC](http://www.austrac.gov.au/) |
@@ -181,7 +181,72 @@ Recommendations \# 10 - Customer Due Diligence
 
 ## 07.05 Suspicious Transaction Report \(STR\)
 
+可疑交易报告（STR）也称可疑活动报告（Suspicious Activity Report, SAR）是金融机构针对可疑或潜在可疑活动所做的报告。
+
+根据FATF“建议20”，如果金融机构怀疑或有合理的理由怀疑资金是犯罪活动的收益或与恐怖主义融资有关，则应根据法律，将其怀疑立即报告给金融情报中心。
+
+如今，全球大多数金融机构和许多特定非金融行业和职业（Designated Non-Financial Businesses and Profession, DNFBP）都需要识别并向各种国家的金融情报部门报告可疑交易。
+
+![](.gitbook/assets/image%20%2826%29.png)
+
+![](.gitbook/assets/image%20%2825%29.png)
+
+相关法律法规：
+
+| 国家 | 名称 | 实施时间 |
+| :--- | :--- | :--- |
+| 中国 | 金融机构大额交易和可疑交易报告管理办法 | 2017-07-01 |
+
 ## 07.06 Beneficial Owner \(BO\)
+
+受益所有人是英美法上的概念，是指拥有受益所有权的人。2016年以来对《40项建议》的修订，体现了对受益所有人的重视。随着全球监管（反洗钱）的一体化，中国国内金融监管也越来越多地使用这个词，有时候往往要用技术手段来穿透最终交易或资产的最终受益人（Ultimate Beneficial Owner, UBO）或受益所有人。
+
+![](.gitbook/assets/image%20%2823%29.png)
+
+![](.gitbook/assets/image%20%2824%29.png)
+
+不同组织的受益所有人应当按照以下标准判断：
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x7C7B;&#x578B;</th>
+      <th style="text-align:left">&#x53D7;&#x76CA;&#x6240;&#x6709;&#x4EBA;&#x5224;&#x65AD;&#x6807;&#x51C6;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x516C;&#x53F8;</td>
+      <td style="text-align:left">
+        <ol>
+          <li>&#x76F4;&#x63A5;&#x6216;&#x95F4;&#x63A5;&#x62E5;&#x6709;&#x8D85;&#x8FC7;25%&#x7684;&#x516C;&#x53F8;&#x80A1;&#x6743;&#x6216;&#x8005;&#x8868;&#x51B3;&#x6743;&#x7684;&#x81EA;&#x7136;&#x4EBA;&#xFF1B;</li>
+          <li>&#x901A;&#x8FC7;&#x4EBA;&#x4E8B;&#x3001;&#x8D22;&#x52A1;&#x7B49;&#x5176;&#x4ED6;&#x65B9;&#x5F0F;&#x5BF9;&#x516C;&#x53F8;&#x8FDB;&#x884C;&#x63A7;&#x5236;&#x7684;&#x81EA;&#x7136;&#x4EBA;&#xFF1B;</li>
+          <li>&#x516C;&#x53F8;&#x7684;&#x9AD8;&#x7EA7;&#x7BA1;&#x7406;&#x4EBA;&#x5458;&#x3002;</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5408;&#x4F19;&#x4F01;&#x4E1A;</td>
+      <td style="text-align:left">&#x62E5;&#x6709;&#x8D85;&#x8FC7;25%&#x7684;&#x5408;&#x4F19;&#x6743;&#x76CA;&#x7684;&#x81EA;&#x7136;&#x4EBA;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x4FE1;&#x6258;</td>
+      <td style="text-align:left">&#x4FE1;&#x6258;&#x7684;&#x59D4;&#x6258;&#x4EBA;&#x3001;&#x53D7;&#x6258;&#x4EBA;&#x3001;&#x53D7;&#x76CA;&#x4EBA;&#x4EE5;&#x53CA;&#x5176;&#x4ED6;&#x5BF9;&#x4FE1;&#x6258;&#x5B9E;&#x65BD;&#x6700;&#x7EC8;&#x6709;&#x6548;&#x63A7;&#x5236;&#x7684;&#x81EA;&#x7136;&#x4EBA;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x57FA;&#x91D1;</td>
+      <td style="text-align:left">&#x62E5;&#x6709;&#x8D85;&#x8FC7;25%&#x7684;&#x6743;&#x76CA;&#x4EFD;&#x989D;&#x6216;&#x8005;&#x5176;&#x4ED6;&#x5BF9;&#x57FA;&#x91D1;&#x8FDB;&#x884C;&#x63A7;&#x5236;&#x7684;&#x81EA;&#x7136;&#x4EBA;</td>
+    </tr>
+  </tbody>
+</table>
+
+相关法律法规：
+
+| 国家 | 名称 |
+| :--- | :--- |
+| 中国 | 金融机构客户身份识别和客户身份资料及交易记录保存管理办法 |
+| 中国 | 中国人民银行关于加强反洗钱客户身份识别有关工作的通知 |
+| 中国 | 中国人民银行关于进一步做好受益所有人身份识别工作有关问题的通知 |
 
 ## 07.07 Financial Intelligence Network
 
