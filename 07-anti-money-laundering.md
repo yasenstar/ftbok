@@ -71,7 +71,7 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 | C.8 | Non-profit organization |
 | D | PREVENTIVE MEASURES |
 | D.9 | Financial institution secrecy laws |
-| D.10 | CUSTOMER DUE DILIGENCE AND RECORD-KEEPING: Customer due diligenct |
+| D.10 | CUSTOMER DUE DILIGENCE AND RECORD-KEEPING: Customer due diligence |
 | D.11 | CUSTOMER DUE DILIGENCE AND RECORD-KEEPING: Record-keeping |
 | D.12 | ADDITIONAL MEASURES FOR SPECIFIC CUSTOMERS AND ACTIVITIES: Politically exposed persons |
 | D.13 | ADDITIONAL MEASURES FOR SPECIFIC CUSTOMERS AND ACTIVITIES: Correspondent banking |
@@ -152,6 +152,28 @@ Refer to [here](https://www.fincen.gov/news/news-releases/fincen-and-chinas-caml
 ![](.gitbook/assets/image%20%2817%29.png)
 
 ## 07.04 Know Your Customer \(KYC\)
+
+了解你的客户（KYC）用于指代监督客户金融活动的银行监管和反洗钱法规。根据FATF“建议10”，各国应当禁止金融机构保持匿名账户或明显以假名开立的账户，各国应当要求金融机构在出现建议所规定的情形试，采取客户尽职调查。
+
+Recommendations \# 10 - Customer Due Diligence
+
+> Financial institutions should be prohibited from keeping anonymous accounts or accounts in obviously fictitious names.
+>
+> Financial institutions should be required to undertake customer due diligence \(CDD\) measures when:
+>
+> \(1\) establishing business relations;  
+> \(2\) carrying out occasional transactions: \(a\) above the applicable designated threshold \(USD/EUR 15,000\); or \(b\) that are wire transfers in the circumstances covered by the Interpretive Note to Recommendation 16;  
+> \(3\) there is a suspicion of money laundering or terririst financing; or  
+> \(4\) the financial institution has doubts about the veracity or adequacy of previously obatined customer identification data.
+>
+> The principle that financial institutions should conduct CDD should be set out in law. Each country may determine how it imposes specific CDD obligations, either through law or enforceable means.
+>
+> The CDD measures to be taken are as followes:
+>
+> \(1\) Identifying the customer and verifying that customer's identity using reliable, independent source documents, data or information.  
+> \(2\) Identifying the beneficial owner, and taking reasonable measures to verify the identity of the beneficial owner, such that the financial institution is satisfied that it knows who the beneficial owner is. For legal persons and arrangements this should include financial institutions understanding the ownership and control structure of the customer.  
+> \(3\) Understanding and, as appropriate, obtaining information on the purpose and intended nature of the business relationship.  
+> \(4\) Conducting ongoing due diligence on the business relationship and scrutiny of transactions undertaken throughout the course of that relationship to ensure that the transactions being conducted are consistent with the institution's knowledge of the customer, their busienss and risk profile, including, where necessary, the source of funds.
 
 ![](.gitbook/assets/image%20%2820%29.png)
 
