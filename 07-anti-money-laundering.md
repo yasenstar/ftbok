@@ -39,7 +39,14 @@
 
 ## 07.02 Financial Action Task Force on Money Laundering \(FATF\)
 
-[反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering, FATF）](https://www.fatf-gafi.org/)是全球洗钱和资助恐怖主义的监督机构。这个政府间机构制定了旨在防止这些非法活动及其对社会造成的危害的国家标准。
+[反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering, FATF）](https://www.fatf-gafi.org/)，成立于1989年，是全球洗钱和资助恐怖主义的监督机构。这个政府间机构制定了旨在防止这些非法活动及其对社会造成的危害的国家标准。
+
+除了FATF外，下面是其他与地区反洗钱相关的组织：
+
+* 亚太反洗钱组织（APG）
+* 欧亚反洗钱与反恐融资小组（EAG）
+* 东南非洲反洗钱工作组（GABAC）
+* 拉美金融行动特别行动组（GAFILAT）
 
 FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html)》是世界上反洗钱和反恐融资的最权威文件。
 
@@ -49,12 +56,12 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 
 下面是《[40项建议](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html)》的名称：
 
-| Item \# | Recommendation |
+| Item | Recommendation |
 | :--- | :--- |
 | A | AML/CFT POLICIES AND COORDINATION |
 | A.1 | Assessing risks and applying a risk-based approach |
 | A.2 | National cooperation and coordination |
-| B | MONEY LAUNDERING AND CONFISCATION |
+| B | MONEY LAUNDERING AND CONFISCATION \(没收\) |
 | B.3 | Money laundering offence |
 | B.4 | Confiscation and provisional measures |
 | C | TERRORIST FINANCING AND FINANCING OF PROLIFERATION |
@@ -100,6 +107,8 @@ FATF制定的反洗钱《[40项建议](https://www.fatf-gafi.org/publications/fa
 | G.40 | Other forms of international cooperation |
 
 ## 07.03 Financial Intelligence Unit \(FIU\)
+
+金融情报中心，又称金融情报机构，是一个旨在打击洗钱犯罪，专门负责收集、归纳分析有关可疑犯罪收入或被国家立法或规定要求的金融情报线索，并向执法部门传递情报的中央国家机构。
 
 ![](.gitbook/assets/image%20%2821%29.png)
 
